@@ -28,7 +28,7 @@ Slack **`#epee-fencing-toolkit-status`**
 | Cadence | When | Where |
 |---------|------|--------|
 | **Weekly pulse** | Mondays **9:00 AM ET** | `#epee-fencing-toolkit-status` |
-| **Daily standup** | Weekdays (async OK) | Same channel — blockers, build/test status, open client actions |
+| **Daily standup** | Weekdays **10:00 AM ET** | Same channel — blockers, build/test status, open client actions |
 
 ## Red (escalate / change course)
 
